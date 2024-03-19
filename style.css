@@ -1,0 +1,54 @@
+html{
+    background: #212121;
+  }
+  
+  body{
+    font-family: 'Source Code Pro', monospace;
+    background: #212121;
+    color: #52575d;
+  }
+  
+  a{
+    color: #52575d;
+  }
+  .yellow{
+    color: #ffd369;
+  }
+  .correct{
+    color: #29bb89;
+  }
+  .wrong{
+    color: #e84545;
+    text-decoration: underline;
+  }
+  .current{
+    color: #eeeeee;
+  }
+  .center{
+    text-align: center;
+  }
+  .if{
+    display: inline-flex;
+  }
+  
+  .box {
+    max-width: 900px;
+    padding: 0 30px;
+  }
+  
+  #heading{
+    align-self: left;
+    margin-top: 50px;
+    font-size: 1.75rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+  }
+  .limits-box{
+    text-align: right;
+    margin: 0 35px 0 0 ;
+    font-size: 15px;
+  }
+  
+  .stats{
+    margin: 10px auto 20px auto;
+  }
